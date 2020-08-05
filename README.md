@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [medium](https://medium.com/@adebola.niran)
 
-- 💬 Ask me about **react, gatsby, ruby-on-rails, node.js**
+- 💬 Ask me about **React, Gatsby, Ruby-on-rails, Node.js**
 
 - 📫 How to reach me **adebola.rb.js@gmail.com**
 
