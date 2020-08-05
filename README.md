@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onedebos" alt="onedebos" /> </p>
 
-- 🔭 I’m currently working on [Filelockrr](https://filelockrr.com)
+- 🔭 I’m currently working on building [Filelockrr.com](https://filelockrr.com)
 
 - 🌱 I’m currently learning **TypeScript and React Native**
 
