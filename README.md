@@ -1,5 +1,5 @@
 <h1 align="center">Hey! It's Adebola</h1>
-<h3 align="center">A Software developer from Nigeria passionate about Jollof rice and plantain.</h3>
+<h3 align="center">A Software developer passionate about Jollof rice and plantain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onedebos" alt="onedebos" /> </p>
 
