@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onedebos" alt="onedebos" /> </p>
 
-- 🔭 I’m currently working on [Filelockrr](filelockrr.com)
+- 🔭 I’m currently working on [Filelockrr](https://filelockrr.com)
 
 - 🌱 I’m currently learning **TypeScript and React Native**
 
-- 👨‍💻 All of my projects are available at [adebola.dev](adebola.dev)
+- 👨‍💻 All of my projects are available at [adebola.dev](https://adebola.dev)
 
-- 📝 I regulary write articles on [medium.com/@adebola-niran](medium.com/@adebola-niran)
+- 📝 I regulary write articles on [medium.com/@adebola-niran](https://medium.com/@adebola-niran)
 
 - 💬 Ask me about **react, gatsby, ruby-on-rails, node.js**
 
