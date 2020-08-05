@@ -1,7 +1,7 @@
 <h1 align="center">Hey! It's Adebola</h1>
 <h3 align="center">A Software developer passionate about Jollof rice and plantain.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onedebos" alt="onedebos" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=onedebos" alt="onedebos" /> </p>
 
 - 🔭 I’m currently working on building [Filelockrr.com](https://filelockrr.com)
 
