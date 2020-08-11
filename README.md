@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [adebola.dev](https://adebola.dev)
 
-- 📝 I regulary write articles on [medium](https://medium.com/@adebola.niran)
+- 📝 I regulary write articles on my [blog](https://blog.adebola.dev) and [medium](https://medium.com/@adebola.niran)
 
 - 💬 Ask me about **React, Gatsby, Ruby-on-rails, Node.js**
 
