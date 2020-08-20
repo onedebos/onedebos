@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on building [Filelockrr.com](https://filelockrr.com)
 
-- 🌱 I’m currently learning **TypeScript and React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [adebola.dev](https://adebola.dev)
 
