@@ -3,10 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=onedebos" alt="onedebos" /> </p>
 
-- 🔭 I’m currently working on building [whichwifi](https://whichwifi.work)
-
-- 🌱 I’m currently learning **React Native**
-
 - 📝 I regulary write articles on my [blog](https://blog.adebola.dev) and [medium](https://medium.com/@adebola.niran)
 
 - 💬 Ask me about **React, Gatsby, Ruby-on-rails, Node.js**
